@@ -1,5 +1,5 @@
 # penguins-analysis-project
-# Analisi Statistica e Predittiva: Palmer Penguins Dataset 🐧
+# Analisi Statistica e Predittiva: Palmer Penguins Dataset
 
 Questo repository contiene un'analisi dati end-to-end sul celebre dataset *Palmer Penguins*, sviluppata a conclusione del corso professionale "Elementi di Data Analytics".
 
