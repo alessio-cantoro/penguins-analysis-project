@@ -1,7 +1,7 @@
 # penguins-analysis-project
 # Analisi Statistica e Predittiva sul Palmer Penguins Dataset
 
-Analisi dati end-to-end sul celebre dataset *Palmer Penguins*, sviluppata a conclusione del corso professionale "Elementi di Data Analytics".
+Analisi dati end-to-end sul celebre dataset *Palmer Penguins*, sviluppata a conclusione del corso professionale ["Elementi di Data Analytics"](https://immaginazioneelavoro.it/prodotto/elementi-di-data-analytics/).
 
 ## Competenze Tecniche Dimostrate
 
