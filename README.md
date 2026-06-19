@@ -3,7 +3,7 @@
 
 Analisi dati end-to-end sul celebre dataset *Palmer Penguins*, sviluppata a conclusione del corso professionale ["Elementi di Data Analytics"](https://immaginazioneelavoro.it/prodotto/elementi-di-data-analytics/).
 
-## Competenze Tecniche Dimostrate
+## Competenze Tecniche
 
 * **Linguaggio e Stack:** Python (Pandas, NumPy, Matplotlib, Seaborn).
 * **Statistica e Inferenza:** SciPy, Statsmodels.
